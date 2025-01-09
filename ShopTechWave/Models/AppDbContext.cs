@@ -44,7 +44,6 @@ namespace ShopTechWave.Models
             public string NameProduct { get; set; } = "";
             [MaxLength(100)]
             public string Brand { get; set; } = "";
-
             [Precision(16, 0)]
             public decimal Price { get; set; } //Giá bán bé hơn giá OldPrice => giảm giá
             [Precision(16, 0)]
