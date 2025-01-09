@@ -4,7 +4,6 @@ using System.ComponentModel.DataAnnotations;
 
 namespace ShopTechWave.Models
 {
-
     public class AppDbContext : IdentityDbContext<AppUser>
     {
         //Tạo các DbSet (tự động kết nối các bảng dữ liệu trong CSDL)

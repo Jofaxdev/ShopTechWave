@@ -22,7 +22,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Models\test1\" />
     <Folder Include="Services\" />
   </ItemGroup>
 
