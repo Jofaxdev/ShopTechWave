@@ -10,7 +10,7 @@ namespace ShopTechWave.Models
     //test 1515151
     //test 2 
     //test 4
-    //khang mới sửa nè hihi ms sửa lần 2 nè aaaaa
+    //khang mới sửa nè hihi ms sửa lần 3 nè aaaaa
     //dsadsadsa mới thêm nữa nè
     public class AppDbContext : IdentityDbContext<AppUser>
     {
