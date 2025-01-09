@@ -6,6 +6,7 @@ namespace ShopTechWave.Models
 {
 
     //Hello
+    //kkk
 
     public class AppDbContext : IdentityDbContext<AppUser>
     {
