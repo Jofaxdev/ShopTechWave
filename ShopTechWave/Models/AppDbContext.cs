@@ -5,8 +5,11 @@ using System.ComponentModel.DataAnnotations;
 namespace ShopTechWave.Models
 {
 
-    //Hello 123456dsadsa
-    //kkkkk
+    //Hello
+    //kkk
+    //test 1
+    //test 2 
+    //test 3
     public class AppDbContext : IdentityDbContext<AppUser>
     {
         //Tạo các DbSet (tự động kết nối các bảng dữ liệu trong CSDL)
