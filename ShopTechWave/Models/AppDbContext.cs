@@ -7,9 +7,10 @@ namespace ShopTechWave.Models
 
     //Hello
     //kkk
-    //test 1
+    //test 1515151
     //test 2 
     //test 4
+    //khang mới sửa nè hihi
     public class AppDbContext : IdentityDbContext<AppUser>
     {
         //Tạo các DbSet (tự động kết nối các bảng dữ liệu trong CSDL)
