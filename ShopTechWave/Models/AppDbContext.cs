@@ -2,6 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 using System.ComponentModel.DataAnnotations;
 
+
 namespace ShopTechWave.Models
 {
     public class AppDbContext : IdentityDbContext<AppUser>
